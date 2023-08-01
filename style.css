@@ -1,6 +1,9 @@
-body{background-color: rgb(0, 0, 0);
-color: rgb(255, 255, 255);
+.cabeçalho
+header {
+    background-color: rgb(9, 10, 10);
+    color: rgb(201, 124, 24);
+}
 
-
-
+.cabeçalho-imagem{
+     width: 10%;
 }
